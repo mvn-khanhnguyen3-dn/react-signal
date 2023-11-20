@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### How to install ?
+
+<!-- Just the core library -->
+
+npm install @preact/signals-core
+
+ <!-- If you're using Preact -->
+
+npm install @preact/signals
+
+ <!-- If you're using React -->
+
+npm install @preact/signals-react
+
+<!-- If you're using Svelte -->
+
+npm install @preact/signals-core
