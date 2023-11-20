@@ -6,7 +6,7 @@ function App() {
     <main className='App'>
       <h2>Demo React Signal</h2>
       <Tabs />
-      {/* <Footer /> */}
+      <Footer />
     </main>
   );
 }
